@@ -1,0 +1,19 @@
+*{
+    height: auto;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  input[type='file'] {
+    margin: 20px 0;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: rgb(30, 115, 30);
+  }
+  

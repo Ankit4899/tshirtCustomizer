@@ -1,0 +1,25 @@
+*{
+  height: auto;
+  text-align: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  display: block;
+}
+
+input[type='file'] {
+  margin: 20px 0;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: rgb(39, 155, 39);
+}
+
+
+.btn:hover{
+  background-color: rgb(2, 53, 2);
+  color: azure;
+}
